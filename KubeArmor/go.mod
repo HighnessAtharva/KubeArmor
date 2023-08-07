@@ -33,7 +33,7 @@ require (
 	github.com/docker/docker v23.0.6+incompatible
 	github.com/google/uuid v1.3.0
 	github.com/kubearmor/KubeArmor/pkg/KubeArmorController v0.0.0-20230510133055-4e30a28b6352
-	github.com/kubearmor/KubeArmor/protobuf v0.0.0-20230510133055-4e30a28b6352
+	github.com/kubearmor/KubeArmor/protobuf v0.0.0-20230807133753-f58a36bdef4e
 	github.com/opencontainers/runtime-spec v1.1.0-rc.2
 	github.com/spf13/viper v1.15.0
 	go.uber.org/zap v1.24.0
