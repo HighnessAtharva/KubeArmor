@@ -3,7 +3,7 @@ module github.com/kubearmor/KubeArmor/pkg/KubeArmorOperator
 go 1.20
 
 require (
-	github.com/kubearmor/KubeArmor/KubeArmor v0.0.0-20230801181826-f1b41d01e8c1
+	github.com/kubearmor/KubeArmor/KubeArmor v0.0.0-20230807133753-f58a36bdef4e
 	github.com/kubearmor/KubeArmor/deployments v0.0.0-20230711122007-7ab3a56cfd76
 	github.com/kubearmor/KubeArmor/pkg/KubeArmorController v0.0.0-20230711122007-7ab3a56cfd76
 	github.com/spf13/cobra v1.7.0
